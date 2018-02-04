@@ -23,11 +23,12 @@ You may download them from:
 To build, change to a directory where this file is located, and run `make`. The resulting executables can be found in `build/release/src`.
 
 ### On Windows:
-Dependencies: MS Visual Studio Community 2013 or later, CMake 2.8.6 or later, and Boost 1.55. You may download them from:
+Dependencies: MS Visual Studio Community 2013 or later, Python 2.7, CMake 2.8.6 or later, and Boost 1.55. You may download them from:
 
 You can also look here: https://github.com/trapcoin-dev/Trapcoin/blob/master/windows-requirements-install.md
 
 * http://www.microsoft.com/
+* https://www.python.org/
 * http://www.cmake.org/
 * http://www.boost.org/
 
