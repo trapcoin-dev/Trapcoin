@@ -43,9 +43,9 @@ For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
 ## Mining:
 
-Start "trapcoind"
+Start ```trapcoind```
 
-Then you can use the CPU miner which can be found in the release archive.
+Then you can use ```miner``` to start mining.
 
 Config options can be viewed with ```miner --help```
 
