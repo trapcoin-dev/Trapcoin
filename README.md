@@ -49,6 +49,10 @@ Then you can use the CPU miner which can be found in the release archive.
 
 Config options can be viewed with ```miner --help```
 
+You can also mine with "simplewallet"
+
+Open your wallet from there and then start with ```start_mining X (number of threads)```
+
 You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:8340``` as address.
 
 ## Donations:
