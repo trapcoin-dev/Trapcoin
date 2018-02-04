@@ -1,5 +1,7 @@
 ## This is the offical Trapcoin Github.
 
+Trapcoin is based on CryptoNote and uses the CryptoNight algorithm.
+
 We also have a discord server if you have questions or want to help:
 https://discord.gg/fEkvN39
 
