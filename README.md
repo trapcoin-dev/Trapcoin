@@ -57,6 +57,12 @@ Open or create your wallet from there and then start with ```start_mining X (num
 
 You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:8340``` as address.
 
+## What's next?
+
+* Releasing a GPU Miner
+* GUI wallet for Unix
+* Mac Release
+
 ## Donations:
 
 BTC: 1LzpxtVRXMrLxGckC1PfsZA8o6TssLmocY
