@@ -40,6 +40,12 @@ cmake -G "Visual Studio 12 Win64" ..
 
 For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
+## Mining:
+
+You can use the CPUminer which can be found in the release archive.
+
+Config options can be viewed with [miner --help]
+
 ## Donations:
 
 BTC: 1LzpxtVRXMrLxGckC1PfsZA8o6TssLmocY
