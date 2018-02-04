@@ -7,6 +7,8 @@ There is a max supply of 100.000.000 coins and the blocktime is 120 seconds.
 We also have a discord server if you have questions or want to support the project:
 https://discord.gg/fEkvN39
 
+You can also contact us per e-mail: trpcoin@gmail.com
+
 ## Building:
 
 ### On *nix:
