@@ -1,9 +1,9 @@
-This is the offical Trapcoin Github.
+##This is the offical Trapcoin Github.
 
 We also have a discord server if you have questions or want to help:
 https://discord.gg/fEkvN39
 
-Donations:
+##Donations:
 
 BTC: 1LzpxtVRXMrLxGckC1PfsZA8o6TssLmocY
 
