@@ -42,7 +42,7 @@ For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
 ## Mining:
 
-Start the trapcoind application.
+Start "trapcoind"
 
 Then you can use the CPUminer which can be found in the release archive.
 
