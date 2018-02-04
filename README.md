@@ -42,9 +42,13 @@ For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
 ## Mining:
 
-You can use the CPUminer which can be found in the release archive.
+Start the trapcoind application.
+
+Then you can use the CPUminer which can be found in the release archive.
 
 Config options can be viewed with ```miner --help```
+
+You should also be able to use an CryptoNight GPU Miner, enter ```127.0.0.1:8340``` as address.
 
 ## Donations:
 
