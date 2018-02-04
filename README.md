@@ -59,4 +59,4 @@ ETH: 0x70EAE40Be33aC8f59f24C52a0443F7EBe3e168B8
 TRAPS: 
 
 
-### NOT associated with https://coinmarketcap.com/currencies/trapcoin/
+### This project is NOT associated with https://coinmarketcap.com/currencies/trapcoin/
