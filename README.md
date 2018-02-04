@@ -44,7 +44,7 @@ For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
 You can use the CPUminer which can be found in the release archive.
 
-Config options can be viewed with [miner --help]
+Config options can be viewed with ```miner --help```
 
 ## Donations:
 
