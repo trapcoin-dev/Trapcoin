@@ -36,6 +36,8 @@ cd build
 cmake -G "Visual Studio 12 Win64" ..
 ```
 
+For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
+
 ## Donations:
 
 BTC: 1LzpxtVRXMrLxGckC1PfsZA8o6TssLmocY
