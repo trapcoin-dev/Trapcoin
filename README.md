@@ -4,7 +4,7 @@ Trapcoin is based on CryptoNote and uses the CryptoNight algorithm.
 
 There is a max supply of 100.000.000 coins and the blocktime is 120 seconds.
 
-We also have a discord server if you have questions or want to help:
+We also have a discord server if you have questions or want to support the project:
 https://discord.gg/fEkvN39
 
 ## Building:
