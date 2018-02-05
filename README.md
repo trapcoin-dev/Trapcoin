@@ -43,6 +43,18 @@ cmake -G "Visual Studio 12 Win64" ..
 
 For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
+## Creating a Wallet:
+
+Start ```trapcoind```
+
+Start ```simplewallet```
+
+Then enter ```o``` to create a new wallet.
+
+Give it a name and set a password and you're done.
+
+Alternatively you can also use the GUI wallet, for which you don't need ```trapcoind```
+
 ## Mining:
 
 Start ```trapcoind```
@@ -52,8 +64,6 @@ Then you can use ```miner``` to start mining.
 Config options can be viewed with ```miner --help```
 
 You can also mine with ```simplewallet``` or directly in ```trapcoind```:
-
-Open or create your wallet from there and then start with ```start_mining X (number of threads)```
 
 You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:8340``` as address.
 
