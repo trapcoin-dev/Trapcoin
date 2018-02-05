@@ -59,9 +59,10 @@ You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:8340`
 
 ## What's next?
 
-* Releasing a GPU Miner
+* create mining pool(s)
+* release a GPU miner
 * GUI wallet for Unix
-* Mac Release
+* macOS release
 
 ## Donations:
 
