@@ -51,7 +51,7 @@ Then you can use ```miner``` to start mining.
 
 Config options can be viewed with ```miner --help```
 
-You can also mine with ```simplewallet```:
+You can also mine with ```simplewallet``` or directly in ```trapcoind```:
 
 Open or create your wallet from there and then start with ```start_mining X (number of threads)```
 
