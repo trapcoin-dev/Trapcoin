@@ -67,7 +67,7 @@ Config options can be viewed with ```miner --help```
 
 You can also mine with ```simplewallet``` or directly in ```trapcoind```:
 
-You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:8340``` as address.
+You should also be able to use any CryptoNight GPU miner, use ```127.0.0.1:18340``` as address.
 
 ## What's next?
 
