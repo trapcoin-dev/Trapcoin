@@ -53,6 +53,8 @@ Then enter ```o``` to create a new wallet.
 
 Give it a name and set a password and you're done.
 
+For more information just enter ```help```.
+
 Alternatively you can also use the GUI wallet, for which you don't need ```trapcoind```
 
 ## Mining:
