@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "trapcoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001f89bf98647029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210134705b8c782ab09b372f5094359a3b1a739424b28bc1fa0424c47502181397dc";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
@@ -108,7 +108,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "892adf9321834012
 const std::initializer_list<const char*> SEED_NODES = {
   "188.166.127.80:17340",
   "188.166.110.113:17340",
-  "88.99.5.200",
+  "88.99.5.200:17340",
 };
 
 struct CheckpointData {
