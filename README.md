@@ -1,6 +1,6 @@
 ## This is the offical Trapcoin Github.
 
-Trapcoin is based on CryptoNote and uses the CryptoNight algorithm.
+Trapcoin is based on ForkNote/CryptoNote and uses the CryptoNight algorithm.
 
 There is a max supply of 100.000.000 coins and the blocktime is 120 seconds.
 
