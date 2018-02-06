@@ -84,7 +84,6 @@ ETH: 0x70EAE40Be33aC8f59f24C52a0443F7EBe3e168B8
 
 XMR: 46NQEMcGSYk1AeHjSRrxtMD5Zy1bqrB4gFpqBjWD8rEg5aXFKMz9VzN3rq6RH55hGJSsfWh9zQvEzDPefwYndFEw4CAYQ5H
 
-TRAPS: TRqVWQ4tEMuYWfxXBAAm1S4qaKUSvAUFrHjbZSV1DFBp8TeBwJct3jxarnumZCHfP6N6nEgNA25SdjigibJeFSkU2kMsH1Gnc
-
+TRAPS:
 
 ### This project is NOT associated with https://coinmarketcap.com/currencies/trapcoin/
