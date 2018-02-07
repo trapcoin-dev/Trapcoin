@@ -9,7 +9,7 @@ There was no premine or coin reservation, the blockchain started at block 0.
 We have a discord server if you have questions or want to support the project:
 https://discord.gg/fEkvN39
 
-You can also contact us per e-mail: trapcoin.dev@gmail.com
+You can also contact us via e-mail: trapcoin.dev@gmail.com
 
 ## Building:
 
