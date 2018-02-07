@@ -13,7 +13,7 @@ You can also contact us via e-mail: trapcoin.dev@gmail.com
 
 ## Building:
 
-### On *nix:
+### On Unix:
 
 Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55.
 
@@ -43,7 +43,9 @@ cd build
 cmake -G "Visual Studio 12 Win64" ..
 ```
 
-For a GUI look here: https://github.com/trapcoin-dev/Trapcoin_gui
+You can also use the CMake GUI, choose "Visual Studio 2013 (12) Win64".
+
+For a GUI wallet look here: https://github.com/trapcoin-dev/Trapcoin_gui
 
 ## Mining:
 
